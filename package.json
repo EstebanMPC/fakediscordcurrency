@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EstebanMPC/fakediscordcurrency/issues"
   },
-  "homepage": "https://github.com/EstebanMPC/fakediscordcurrency#readme"
+  "homepage": "https://github.com/EstebanMPC/fakediscordcurrency#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
